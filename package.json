@@ -1,0 +1,14 @@
+{
+  "name": "@jpctrade/prettier-config",
+  "version": "1.0.0",
+  "description": "Prettier config for JPCTRADE",
+  "main": "index.js",
+  "scripts": {
+    "fmt": "prettier --config prettier.config.js --write index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^1.12.1"
+  }
+}
