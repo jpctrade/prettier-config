@@ -5,7 +5,7 @@
 Install `@jpctrade/prettier-config` via npm.
 
 ```
-$ npm install --save-dev git+https://git@github.com/jpctrade/prettier-config.git"
+$ npm install --save-dev git+https://git@github.com/jpctrade/prettier-config.git
 ```
 
 ## Usage
